@@ -1,1 +1,11 @@
-Trying react for the first time.
+# Practice of Basics of React framework of JavaScript
+- component
+- multiple component
+- props
+- event handling
+- state
+- adding state to a component
+- refs
+- update state remove component
+- functions as props
+- adding new component
